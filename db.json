@@ -1,0 +1,25 @@
+{
+    "trips-app":[
+        {
+           "id":1,
+           "title":"TRIP",
+           "venue":"Nanyuki",
+           "date":"10/06/23",
+           "description":" wuetetyiekgkkgsekjtrkserj"
+        },
+        {
+            "id":2,
+           "title":"TRIP",
+           "venue":"Naivasha",
+           "date":"12/06/23",
+           "description":" wuetetyiekgkkgsekjtrkserj" 
+        },
+        {
+            "id":1,
+            "title":"TRIP",
+            "venue":"Mombasa",
+            "date":"14/06/23",
+            "description":" wuetetyiekgkkgsekjtrkserj"
+        }
+    ]
+}
